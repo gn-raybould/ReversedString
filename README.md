@@ -1,0 +1,1 @@
+This program allows an user to enter a word or a phrase, then it prints out both the original word/phrase and the reversed version.
